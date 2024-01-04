@@ -46,11 +46,11 @@ login - to login if it's password protected
 
 Either you could locally host or deploy on [Heroku](https://heroku.com)
 
-### Deploy on Heroku
+### Deploy on 
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/File-To-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sanjeevi/File-To-Link)
 
 
 🚀Features<p>
