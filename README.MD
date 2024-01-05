@@ -50,7 +50,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/File-To-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sanjeevi/File-To-Link)
 
 
 🚀Features<p>
@@ -92,14 +92,14 @@ or if you're Locally hosting, create a file named `config.env` in the root direc
 An example of `config.env` file:
 
 ```py
-API_ID=12345
-API_HASH=esx576f8738x883f3sfzx83
-BOT_TOKEN=55838383:yourtbottokenhere
-BIN_CHANNEL=-100
+API_ID=21409745
+API_HASH=5014e749b6bbfc36bc6cf399d107d0ed
+BOT_TOKEN=6400689720:AAFJKi9VGTJObsbkl_JI-8-XhZFR-jd4YDI
+BIN_CHANNEL=2027069801
 PORT=8080
 FQDN=your_server_ip
-OWNER_ID=your_user_id
-DATABASE_URL=mongodb_uri
+OWNER_ID=1259924167
+DATABASE_URL=mongodb+srv://sanjeevivp845:<password>@cluster0.bhuwraf.mongodb.net/?retryWrites=true&w=majority
 ```
   </details>
 
